@@ -1,0 +1,7 @@
+Range 50 70
+Step 5 
+Slices 40
+Emissivity 1
+Surface temperature 300
+Print Attenuation TRUE
+Max Altitude 80000

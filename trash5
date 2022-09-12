@@ -1,0 +1,21 @@
+50 GHz
+dz = 2000 meters
+ upward intensity  6.30499e-17
+final result in TB 290.462
+55 GHz
+dz = 2000 meters
+ upward intensity  2.09784e-16
+final result in TB 225.899
+60 GHz
+dz = 2000 meters
+ upward intensity  2.30625e-16
+final result in TB 208.51
+65 GHz
+dz = 2000 meters
+ upward intensity  3.0277e-16
+final result in TB 233.871
+70 GHz
+dz = 2000 meters
+ upward intensity  1.82111e-16
+final result in TB 284.962
+Write to output file successful!
